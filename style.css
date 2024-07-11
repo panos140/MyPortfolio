@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+}
+
+.link-nav {
+    border: 3px solid slateblue;
+    text-decoration: none;
+    background-color: slateblue;
+    color: blanchedalmond;
+}
+
+.link:hover{
+    transition: 1s linear;
+    background-color: aqua;
+    border: 6px solid aqua;
+    color: crimson;
+}
+
+.link {
+    text-decoration: none;
+    border: 4px solid wheat;
+    border-radius: 6px;
+    background-color: wheat;
+    color: rgb(33, 33, 31);
+    font-family: 'Courier New', Courier, monospace;    
+}
+
+main h1 {
+    text-shadow: 3px 3px 3px blue;
+}
